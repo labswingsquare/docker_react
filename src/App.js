@@ -10,7 +10,7 @@ function App() {
         Node App, power the web with Docker & Docker Compose !!! by labswingsquare user
         </p>
 	  <p>
-	  Learn Reac !
+	  Learn React !
 	  </p>
       </header>
     </div>
